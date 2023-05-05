@@ -9,6 +9,8 @@ Full-Time computer science student, part-time teaching assistant for software en
 
 ## 🚀 Current Projects
 Mainly focusing on school at the moment but I have a few projects I'm working on with my free time:
+* Learning Go backend
+* Learning how to utilize Docker in my projetcs
 * [Coding Corner](https://github.com/DylanHalstead/Coding_Corner) is my 4166 final. It's a simple event planner built with Express but I've been adding extra features like hosting images with Atlas, completely custom CSS, and event processing/sorting
 * I'm slowley building my [personal portfolio site](https://github.com/DylanHalstead/personal-portfolio) but progress has slowed since the new
 
