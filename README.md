@@ -10,9 +10,7 @@ Full-Time computer science student, part-time teaching assistant for software en
 ## 🚀 Current Projects
 Mainly focusing on school at the moment but I have a few projects I'm working on with my free time:
 * Working on [SyncSpace](https://github.com/Sync-Space-49) 👀
-* Learning Go backend
-  * Checkout [Grader Connect](https://github.com/DylanHalstead/Grader-Connect)
-* I'm slowly building my [personal portfolio site](https://github.com/DylanHalstead/personal-portfolio) but progress has slowed since the new semester
+* Checkout out my [personal portfolio site](https://github.com/DylanHalstead/personal-portfolio)! Progress has slowed since the new semester but I'm happy with it's current state
 
 ## 🛠️ Languages and Tools :
 <div align="center">
