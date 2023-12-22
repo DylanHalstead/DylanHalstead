@@ -5,12 +5,12 @@
 </div>
 
 ## 🤔 About Me
-Full-Time computer science student, part-time teaching assistant for software engineering at the University of North Carolina @ Charlotte, and coding professional/hobbyist. Currently finishing up my software engineering degree and pursuing full-time software engineering positions where I can both apply my full-stack skills and learn more interesting topics like cloud-based programming, ai-enhanced services, and overall interesting coding challenges/innovations.
+Full-time computer science student, part-time teaching assistant for software engineering at the University of North Carolina @ Charlotte, and coding professional/hobbyist. Currently finishing up my software engineering degree and pursuing full-time software engineering positions where I can both apply my full-stack skills and learn more interesting topics like cloud-based programming, ai-enhanced services, and overall interesting coding challenges/innovations.
 
 ## 🚀 Current Projects
 Mainly focusing on school at the moment but I have a few projects I'm working on with my free time:
-* Working on [SyncSpace](https://github.com/Sync-Space-49) 👀
-* Checkout out my [personal portfolio site](https://github.com/DylanHalstead/personal-portfolio)! Progress has slowed since the new semester but I'm happy with it's current state
+* Check out [SyncSpace](https://github.com/Sync-Space-49) our project management solution!
+* Check out my [personal portfolio site](https://github.com/DylanHalstead/personal-portfolio)!
 
 ## 🛠️ Languages and Tools :
 <div align="center">
