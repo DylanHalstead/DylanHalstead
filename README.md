@@ -9,6 +9,7 @@ Full-time computer science student, part-time teaching assistant for software en
 
 ## 🚀 Current Projects
 Mainly focusing on school at the moment but I have a few projects I'm working on with my free time:
+* Working on an office hours booking solution, [Class Connect](https://github.com/DylanHalstead/ClassConnect) for UNC Charlotte.
 * Check out [SyncSpace](https://github.com/Sync-Space-49) our project management solution!
 * Check out my [personal portfolio site](https://github.com/DylanHalstead/personal-portfolio)!
 
