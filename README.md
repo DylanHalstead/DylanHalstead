@@ -5,7 +5,7 @@
 </div>
 
 ## 🤔 About Me
-Associate Software Engineer at [RVO Health](https://www.rvohealth.com/) mainly working on backend/infrastructure solutions. While my job eats up most of my time, I try to continue to code as a hobby. Along those line, I try to teach and mentor at my alma mater, the University of North Carolina @ Charlotte, so I can help those not fall into the same pitfall I did (as well as show them why software engineering is awesome)!
+Software Engineer at [RVO Health](https://www.rvohealth.com/) mainly working on backend/infrastructure solutions. While my job eats up most of my time, I try to continue to code as a hobby. Along those line, I try to teach and mentor at my alma mater, the University of North Carolina @ Charlotte, so I can help those not fall into the same pitfall I did (as well as show them why software engineering is awesome)!
 
 ## 🚀 Current Projects
 While it's hard to fine time to work on new projects while working a 9-5, here are a few of the highlights I'm working on with my free time:
